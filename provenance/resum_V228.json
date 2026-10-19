@@ -1,0 +1,13 @@
+{
+  "version": "V228",
+  "narrations": 135,
+  "requestsSaved": 167,
+  "productionCharactersSubmitted": 397193,
+  "pilotCharactersSubmitted": 7754,
+  "priorUncertainCharactersReserved": 12395,
+  "combinedNewCharactersConfirmed": 404947,
+  "combinedNewCharactersIncludingUncertainMaximum": 417342,
+  "auditoryReview": "Pilot accepted by user; production listening pending",
+  "exactProviderMonthlyUsageVerified": false,
+  "cashInvoiceVerified": false
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://linguanovels.pages.dev/sitemap.xml

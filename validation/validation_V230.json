@@ -1,0 +1,32 @@
+{
+  "version": "V230",
+  "status": "PASS",
+  "htmlPagesIncluding404": 189,
+  "sitemapURLs": 188,
+  "localReferencesChecked": 4586,
+  "audioFiles": 135,
+  "questions": 810,
+  "durationSecondsByLevel": {
+    "B1": 6372.696000000001,
+    "B2": 7366.368,
+    "C1": 9579.192000000001
+  },
+  "durationSecondsTotal": 23318.256,
+  "largestAssetBytes": 1534605,
+  "staticTotalBytes": 97738167,
+  "staticFileCount": 331,
+  "learningChecks": {
+    "units": 135,
+    "questions": 810,
+    "allCorrectAndWrong": true,
+    "allIndividualOptions": true,
+    "incompleteAndInvalidAnswersRejected": true,
+    "progressRestoreAndRevisionGuard": true,
+    "blockedStorageHandled": true
+  },
+  "audioDecodeValidation": "All 135 decoded successfully during input ZIP validation in this session; unchanged SHA-256 verified here.",
+  "browserVisualQA": "Not performed: browser QA capability unavailable in managed environment.",
+  "auditoryReview": "Pilot accepted; full production listening not completed.",
+  "deployment": "Not deployed; desired hostname availability unverified.",
+  "ads": "Inactive; template hooks only."
+}

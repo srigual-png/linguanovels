@@ -1,0 +1,381 @@
+{
+  "version": "V227",
+  "scope": "production only; prior pilot separately recorded",
+  "voice": "en-GB-Chirp3-HD-Achernar",
+  "entries": {
+    "tll-c01-p01-b1-01": {
+      "charactersReserved": 1778,
+      "textSha256": "ab7bf0c0452c998477e7f1b5f4a19a905b2c340cea9bfcd7cd670b4c1f0d633a",
+      "timestampUTC": "2026-10-19T08:06:25.259825+00:00",
+      "status": "saved",
+      "charactersSubmitted": 1778,
+      "audioSha256": "c0f34ed2a5fb39716b1e61a17dca5807191abb80a0c2f60ad2a5a104bc61f3a5",
+      "bytes": 440736,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "110.184000"
+        }
+      }
+    },
+    "tll-c01-p01-b2-01": {
+      "charactersReserved": 2315,
+      "textSha256": "b8bba126ee2670b61263315232520b1a586f409801d5aaa6f8260865710c4cac",
+      "timestampUTC": "2026-10-19T08:06:41.907766+00:00",
+      "status": "saved",
+      "charactersSubmitted": 2315,
+      "audioSha256": "55f8d8e802de10c7e53e215bff134abd1fc623270b31582577d25e8c8bc9c37d",
+      "bytes": 560736,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "140.184000"
+        }
+      }
+    },
+    "tll-c01-p01-c1-01": {
+      "charactersReserved": 2966,
+      "textSha256": "a129c2229d837c213d22dad4cb70ea45dfc16fcb33793b069237fb0d42d5c996",
+      "timestampUTC": "2026-10-19T08:07:11.284230+00:00",
+      "status": "saved",
+      "charactersSubmitted": 2966,
+      "audioSha256": "7db2e31413951bd93b1e2293e69c9475979a735b0184d0edda68190f89a2b48b",
+      "bytes": 702336,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "175.584000"
+        }
+      }
+    },
+    "tll-c01-p02-b1-01": {
+      "charactersReserved": 2120,
+      "textSha256": "a1caa57cc1b37288ee287d2d58d5a5a61bf6fc3f68a0f92e888aab995ae5e88d",
+      "timestampUTC": "2026-10-19T08:07:35.198325+00:00",
+      "status": "saved",
+      "charactersSubmitted": 2120,
+      "audioSha256": "9edd3e19bc01602b9bbf8776e858b82cf8f3705f1009569735fa004bb64f302f",
+      "bytes": 522816,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "130.704000"
+        }
+      }
+    },
+    "tll-c01-p02-b2-01": {
+      "charactersReserved": 2711,
+      "textSha256": "d18c0f70a16c2b080d7d7b2e7c4f4a99e9664c7f592a3d24c73bfa376d1b341b",
+      "timestampUTC": "2026-10-19T08:07:53.258235+00:00",
+      "status": "saved",
+      "charactersSubmitted": 2711,
+      "audioSha256": "9a9aae727795aae69bb30eb514164fc234b2c3cfb326367273a8ba21cfa476a0",
+      "bytes": 651072,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "162.768000"
+        }
+      }
+    },
+    "tll-c01-p02-c1-01": {
+      "charactersReserved": 3465,
+      "textSha256": "c56ab93af77862082ac696d064dd1088a0948f20c7e0d82b691cff49f63f4d8c",
+      "timestampUTC": "2026-10-19T08:08:14.908664+00:00",
+      "status": "saved",
+      "charactersSubmitted": 3465,
+      "audioSha256": "e4452f82610499d1005230f60570ff20a4cc2b623bc4a4a20a1259f52eddfd37",
+      "bytes": 834624,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "208.656000"
+        }
+      }
+    },
+    "tll-c01-p02-c1-02": {
+      "charactersReserved": 453,
+      "textSha256": "45a157878ac3cf60574cafc15f768575dc734e28bdf4b665fcf8fc38f16987a6",
+      "timestampUTC": "2026-10-19T08:09:08.229693+00:00",
+      "status": "saved",
+      "charactersSubmitted": 453,
+      "audioSha256": "2d13c3479d48dfa69cc08308d552a8e5e2aa2fc20be96343768505ea3d1f86c2",
+      "bytes": 95232,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "23.808000"
+        }
+      }
+    },
+    "tll-c01-p03-b1-01": {
+      "charactersReserved": 2302,
+      "textSha256": "12cbff1f17ce02543cdb7fce68cb51d4b85cdb5f27d87b90213effce89f34bb6",
+      "timestampUTC": "2026-10-19T08:09:13.449316+00:00",
+      "status": "saved",
+      "charactersSubmitted": 2302,
+      "audioSha256": "39f7376cb44792ef237b36122be97bbe5d3f0606c238aa8cdfdf31531eec3d43",
+      "bytes": 567456,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "141.864000"
+        }
+      }
+    },
+    "tll-c01-p03-b2-01": {
+      "charactersReserved": 2894,
+      "textSha256": "c17ba1895dae8f75653b0ca1f396e4d19fd892a564c838d30540535711781ddf",
+      "timestampUTC": "2026-10-19T08:09:37.949579+00:00",
+      "status": "saved",
+      "charactersSubmitted": 2894,
+      "audioSha256": "1d8105f8af902e28d9cde1c847e8da7c9a3331a967d7f6d467d6d92c9d708502",
+      "bytes": 719424,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "179.856000"
+        }
+      }
+    },
+    "tll-c01-p03-c1-01": {
+      "charactersReserved": 3487,
+      "textSha256": "7bad1eab0b782111d8e1a9167dd8367a011163e1f1f4316f442fe33df443d47f",
+      "timestampUTC": "2026-10-19T08:10:03.777552+00:00",
+      "status": "saved",
+      "charactersSubmitted": 3487,
+      "audioSha256": "77186e8e16f534503a4e78b51ddc48677eafed7e3648b3e5999259f96a875eee",
+      "bytes": 839712,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "209.928000"
+        }
+      }
+    },
+    "tll-c01-p03-c1-02": {
+      "charactersReserved": 317,
+      "textSha256": "fca153fabbbddcfd349f61e2e9c54cef4e7553fd7af4186bf3fc987543edc8d1",
+      "timestampUTC": "2026-10-19T08:10:31.965373+00:00",
+      "status": "saved",
+      "charactersSubmitted": 317,
+      "audioSha256": "71d7dece03ff8381b9c6b4583506f6f1001cdf03d045c432e4a556b60a2888e5",
+      "bytes": 73056,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "18.264000"
+        }
+      }
+    },
+    "tll-c02-p01-b1-01": {
+      "charactersReserved": 1235,
+      "textSha256": "bd2af78203a0e726529076fdb5fb4d552e711d701052acd95107c257f2e6d2f7",
+      "timestampUTC": "2026-10-19T08:10:36.678405+00:00",
+      "status": "saved",
+      "charactersSubmitted": 1235,
+      "audioSha256": "413ed21ebb058e199c1f966222eaa3b0326fd87d846214ec5481f66a1753dea7",
+      "bytes": 284832,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "71.208000"
+        }
+      }
+    },
+    "tll-c02-p01-b2-01": {
+      "charactersReserved": 1516,
+      "textSha256": "c5505e45f9d1d6da7a80ea6e22ef2766cc803369c5ac3ef1daca068ee8f072de",
+      "timestampUTC": "2026-10-19T08:10:48.026202+00:00",
+      "status": "saved",
+      "charactersSubmitted": 1516,
+      "audioSha256": "3fc1e8aa83761fd000e0533f1cae66693ac45ee8454850334a14470aa335edff",
+      "bytes": 363072,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "90.768000"
+        }
+      }
+    },
+    "tll-c02-p01-c1-01": {
+      "charactersReserved": 3033,
+      "textSha256": "ed7343aff88ed589d54c655a19913a6f92ed0883fc69fc17edc76cd5c9971fe9",
+      "timestampUTC": "2026-10-19T08:11:01.539237+00:00",
+      "status": "saved",
+      "charactersSubmitted": 3033,
+      "audioSha256": "a00a3d981171b61e187d88fdde2dab15100619cf107b6ba3597b728168a5adf8",
+      "bytes": 721632,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "180.408000"
+        }
+      }
+    },
+    "tll-c02-p02-b1-01": {
+      "charactersReserved": 1249,
+      "textSha256": "6d50ea4e55cd6d5905a764ba93b40dae6630c39c37ce30964ef05b8469e08617",
+      "timestampUTC": "2026-10-19T08:11:26.939737+00:00",
+      "status": "saved",
+      "charactersSubmitted": 1249,
+      "audioSha256": "619a85efcb893b9af05c6910d21a3e4cb0792ec1763abe256d5c02701df4cc17",
+      "bytes": 299136,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "74.784000"
+        }
+      }
+    },
+    "tll-c02-p02-b2-01": {
+      "charactersReserved": 1639,
+      "textSha256": "45fc0508775de4dfb2016b159d057cbc30747319681e15c6ac486ff11a56b50a",
+      "timestampUTC": "2026-10-19T08:11:37.894755+00:00",
+      "status": "saved",
+      "charactersSubmitted": 1639,
+      "audioSha256": "df51d18a938b024f4857d91869cf67e05aba3cdfd4be33e863bf33dbc0e7bc88",
+      "bytes": 379584,
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "24000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "94.896000"
+        }
+      }
+    },
+    "tll-c02-p02-c1-01": {
+      "charactersReserved": 3152,
+      "textSha256": "20e2c6a892cf35f513356c62399d07920799886b1c9c9dead3de9e62c218bdc9",
+      "timestampUTC": "2026-10-19T08:11:55.948945+00:00",
+      "status": "uncertain_requires_review",
+      "errorType": "TimeoutError"
+    }
+  },
+  "preflight": {
+    "timestampUTC": "2026-10-19T08:06:21.899369+00:00",
+    "project": "linguanovels",
+    "methods": {
+      "google.cloud.texttospeech.v1.TextToSpeech.ListCustomVoices": 1,
+      "google.cloud.texttospeech.v1.TextToSpeech.ListVoices": 1,
+      "google.cloud.texttospeech.v1.TextToSpeech.SynthesizeSpeech": 29
+    },
+    "reportedRequestCharacterUpperBound": 145000,
+    "monthlyExactCharactersVerified": false,
+    "trialEvidence": "User screenshot 2026-10-18: active trial, EUR264 credit, 89 days. User confirms unchanged at launch."
+  },
+  "conservativeCombinedBound": 649947,
+  "preventiveCap": 900000,
+  "additionalReportingBuffer": 100000
+}

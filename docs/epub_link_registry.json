@@ -1,0 +1,951 @@
+{
+  "version": 1,
+  "site": "https://linguanovels.pages.dev",
+  "links": [
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 1,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-1/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 1,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-1/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 1,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-1/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 2,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-2/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 2,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-2/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 2,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-2/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 3,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-3/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 3,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-3/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 3,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-3/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 4,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-4/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 4,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-4/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 4,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-4/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 5,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-5/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 5,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-5/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 5,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-5/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 6,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-6/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 6,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-6/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 6,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-6/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 7,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-7/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 7,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-7/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 7,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-7/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 8,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-8/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 8,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-8/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 8,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-8/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 9,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-9/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 9,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-9/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 9,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-9/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 10,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-10/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 10,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-10/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 10,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-10/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 11,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-11/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 11,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-11/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 11,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-11/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 12,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-12/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 12,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-12/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 12,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-12/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 13,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-13/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 13,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-13/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 13,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-13/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 14,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-14/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 14,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-14/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 14,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-14/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 15,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-15/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 15,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-15/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b1",
+      "chapter": 15,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b1/chapter-15/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 1,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-1/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 1,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-1/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 1,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-1/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 2,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-2/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 2,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-2/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 2,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-2/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 3,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-3/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 3,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-3/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 3,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-3/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 4,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-4/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 4,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-4/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 4,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-4/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 5,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-5/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 5,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-5/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 5,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-5/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 6,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-6/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 6,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-6/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 6,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-6/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 7,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-7/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 7,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-7/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 7,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-7/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 8,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-8/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 8,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-8/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 8,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-8/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 9,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-9/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 9,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-9/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 9,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-9/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 10,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-10/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 10,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-10/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 10,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-10/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 11,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-11/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 11,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-11/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 11,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-11/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 12,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-12/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 12,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-12/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 12,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-12/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 13,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-13/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 13,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-13/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 13,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-13/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 14,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-14/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 14,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-14/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 14,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-14/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 15,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-15/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 15,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-15/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "b2",
+      "chapter": 15,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/b2/chapter-15/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 1,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-1/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 1,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-1/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 1,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-1/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 2,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-2/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 2,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-2/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 2,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-2/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 3,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-3/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 3,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-3/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 3,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-3/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 4,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-4/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 4,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-4/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 4,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-4/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 5,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-5/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 5,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-5/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 5,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-5/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 6,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-6/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 6,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-6/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 6,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-6/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 7,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-7/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 7,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-7/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 7,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-7/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 8,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-8/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 8,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-8/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 8,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-8/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 9,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-9/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 9,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-9/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 9,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-9/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 10,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-10/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 10,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-10/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 10,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-10/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 11,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-11/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 11,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-11/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 11,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-11/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 12,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-12/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 12,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-12/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 12,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-12/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 13,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-13/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 13,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-13/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 13,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-13/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 14,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-14/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 14,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-14/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 14,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-14/part-3/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 15,
+      "part": 1,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-15/part-1/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 15,
+      "part": 2,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-15/part-2/"
+    },
+    {
+      "book": "the-last-letter",
+      "level": "c1",
+      "chapter": 15,
+      "part": 3,
+      "url": "https://linguanovels.pages.dev/the-last-letter/c1/chapter-15/part-3/"
+    }
+  ]
+}

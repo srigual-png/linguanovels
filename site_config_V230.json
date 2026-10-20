@@ -4,5 +4,6 @@
   "language": "en-GB",
   "version": "V230",
   "deployment_status": "not_published",
-  "ads_enabled": false
+  "ads_enabled": false,
+  "goatcounter_endpoint": "https://linguanovels.goatcounter.com/count"
 }

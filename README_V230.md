@@ -42,7 +42,7 @@ The package includes stable level/chapter/part URLs, unique English titles and d
 
 Advertising is **not active**. Invisible `<template data-ad-slot>` hooks exist at the end of the homepage and listening parts, so no empty ad boxes interrupt practice. To activate ads later, configure a real publisher account, get the site approved, insert the provider's real code, add any required ads.txt, update privacy information and configure the appropriate consent platform. There are no fake publisher IDs or placeholder ads.txt entries.
 
-The privacy page accurately describes this package's local storage and absence of analytics/advertising. Review operator/contact disclosures and provider requirements before launching advertising or collecting personal data; this package does not invent an operator address or contact details.
+The privacy page accurately describes this package's local storage and use of GoatCounter analytics and absence of advertising. Review operator/contact disclosures and provider requirements before launching advertising or collecting personal data; this package does not invent an operator address or contact details.
 
 ## Validation and limits
 
@@ -69,3 +69,7 @@ Official references used for deployment preparation:
 ## Preview locally
 
 To preview, run `python3 -m http.server 8000 --directory dist` and open `http://localhost:8000` in your own browser. Absolute asset paths mean opening HTML directly with `file://` is not supported.
+
+## Visitor statistics
+
+All generated HTML pages include the asynchronous GoatCounter script. The dedicated endpoint is configured in `site_config_V230.json` as `https://linguanovels.goatcounter.com/count`, keeping these statistics separate from MI. Rebuild and commit `dist/` after changing the configuration. The privacy page describes the integration.

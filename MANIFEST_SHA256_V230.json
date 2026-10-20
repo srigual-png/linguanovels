@@ -13,8 +13,8 @@
     },
     {
       "path": "README_V230.md",
-      "bytes": 6939,
-      "sha256": "9b6519c21429395d59312c6a14156521085f060139dc742a0afe31feae9dc626"
+      "bytes": 7392,
+      "sha256": "3db609b1d28c27bff2f351eecfaa81d33ead19b2a3137bfbc180a26e03bb20f8"
     },
     {
       "path": "content/master_V230.json",
@@ -23,18 +23,18 @@
     },
     {
       "path": "dist/404.html",
-      "bytes": 2368,
-      "sha256": "da297dbfd7733ed9702dcdbc2448c0b8915d5c15f4267b43373e846b5792daa1"
+      "bytes": 2494,
+      "sha256": "ff05fa80191aaf287a9df38e914e81109359f44be507c44fcc7f39787453eaa2"
     },
     {
       "path": "dist/_headers",
-      "bytes": 187,
-      "sha256": "5f0b934435e840308ba0f3e3a972197ce7baa03b6d0bbd09077256b12094c5bc"
+      "bytes": 193,
+      "sha256": "9db5d537668f470cc5a72846177a0796dcb5c5bcf73f35a7325bd5cc0d87728c"
     },
     {
       "path": "dist/about/index.html",
-      "bytes": 3399,
-      "sha256": "24faf268728f2231ebdab3b18d6f18af962d67415a91f694bb069060cf18527d"
+      "bytes": 3525,
+      "sha256": "c6b11da8fa6db80d497f919d85424f16c1996343c7ba8b395ab156fab14021b7"
     },
     {
       "path": "dist/assets/audio/tll-c01-p01-b1_V228.mp3",
@@ -733,948 +733,948 @@
     },
     {
       "path": "dist/how-it-works/index.html",
-      "bytes": 3698,
-      "sha256": "c63901586e83088197ef1f4d21ca4a12d84b3d96dc6c8e92bb7eccd9c9f0fb24"
+      "bytes": 3824,
+      "sha256": "72cd9cc3353ed51dfff7df21da0902b87d52beb339b97a5c153fee7a44bd0614"
     },
     {
       "path": "dist/index.html",
-      "bytes": 6130,
-      "sha256": "5a02650db9caca595757dde51684b020edf410a867d984fdf3f973b0578cf598"
+      "bytes": 6260,
+      "sha256": "20e51f7922c03969bf997733dab35c0618f6d285589a611150ee01d1a3039f57"
     },
     {
       "path": "dist/privacy/index.html",
-      "bytes": 4036,
-      "sha256": "ec148fdecec0e0b81ba29e8e0cc5b74a93496f2939377d0721ff3f9def26af84"
+      "bytes": 4743,
+      "sha256": "39959c8262097c584da688cad1fd697b580095fac84b405ae10334152161ee10"
     },
     {
       "path": "dist/robots.txt",
-      "bytes": 75,
-      "sha256": "81b3df90858717727fb4e8bda62c7ce3915aac03ef13bc7aaa33aa5c98f9f052"
+      "bytes": 78,
+      "sha256": "b2b49da631e3b384ead31c1371537f060b67b5d5182caf3b0470f7be724a4f99"
     },
     {
       "path": "dist/sitemap.xml",
-      "bytes": 16409,
-      "sha256": "6239a93bcf5dfa112b9620927bdeaec895cc2715a0a20a9637206d15117ab6c9"
+      "bytes": 16410,
+      "sha256": "40da1fc36112c319844a5120d7e4a58e561da581c519f8a8c4b2846eed33fe2c"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-1/index.html",
-      "bytes": 14057,
-      "sha256": "73a6076f1d6174db5d084600ab58b94dcfb28427b8ebba9082c9bdf47768c834"
+      "bytes": 14183,
+      "sha256": "94f5595e7ed09a680d5339baabf63972c61035e8cf505fb23e3eff38534d73f1"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-1/part-1/index.html",
-      "bytes": 18494,
-      "sha256": "ea1eb0f3b8c2e12af7dd445fd8632b3b71f24a3e429b47aaa97f166a1f84d6cc"
+      "bytes": 18620,
+      "sha256": "a61f8e8e2c03a81f89349604f0b865840aa863018b25407453565cbd8c8f453e"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-1/part-2/index.html",
-      "bytes": 19958,
-      "sha256": "074914eac2565ae4107569c3736565a952c16f3e89780e9c2f6af4beea5d4a07"
+      "bytes": 20084,
+      "sha256": "e083964087ecd78ef675f9db25b79de7b65dd245e4bb4733628e5730fb54ce32"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-1/part-3/index.html",
-      "bytes": 20897,
-      "sha256": "17b4286ca33256b9819733c917149c5418e53c7e4a10dc950cb789a397d85319"
+      "bytes": 21023,
+      "sha256": "9e813c78dd2c6404cbea6892e19de7d1f34a785064cbb12a0090c13b554771c8"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-10/index.html",
-      "bytes": 14321,
-      "sha256": "2af782d441c48f4f9840f157f1ae65dd5fb8bd79bd137f882ac31f645bff3f48"
+      "bytes": 14447,
+      "sha256": "9a302d25e921204944fbdf49571c286a9965a60c49dc0dbffdf080e123ee9a99"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-10/part-1/index.html",
-      "bytes": 22143,
-      "sha256": "27321d48f47e338dadf7c0adef6252aedcd7337f71bc2fbdd15c7ae9e39d8e5a"
+      "bytes": 22269,
+      "sha256": "51ef2373c7286d58cb59c37da7e6e9752b722b7ae425d3909d066be2bb5eec7d"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-10/part-2/index.html",
-      "bytes": 21150,
-      "sha256": "f7d9c5f818f8b7fedafff03332fe09103a9e1c1f1304b065ceec4318a96e1d99"
+      "bytes": 21276,
+      "sha256": "a5d095a970bf98b29847aaa140691f96c67417da168658b222a305b792b0b262"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-10/part-3/index.html",
-      "bytes": 22080,
-      "sha256": "407b804be82388bc5e9f2f1471f36b78e01f85fd2c145d506ea14536c3badc0f"
+      "bytes": 22206,
+      "sha256": "6591c0014faa12c4bca5f0bcc2926160ecb5978278f8b3b4f277e2b62e5c8742"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-11/index.html",
-      "bytes": 14183,
-      "sha256": "28dad8654d9ecacde86eaf915f631d16e0f5d34664623ec242be6fdb742374e1"
+      "bytes": 14309,
+      "sha256": "078381eefe08b14a7d1b982904b16deaf866b4321f2b2dfce7b4671793dae837"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-11/part-1/index.html",
-      "bytes": 21983,
-      "sha256": "fe81829400cb11ba94a5620357edff7bc602451c29a2e88ff90ec8b235af2d8b"
+      "bytes": 22109,
+      "sha256": "a62afc74b6b7c0e4facea3962c481a0c9afb0f36f437f4e5d964aefd51880751"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-11/part-2/index.html",
-      "bytes": 21252,
-      "sha256": "98f5ad8bc3ea3ead5e45cf067f42ec0b037479a8153ff3913ed613bccdef1bd3"
+      "bytes": 21378,
+      "sha256": "cb8fdaba77cc6741cc823155149efc1cf01af4192343422b46d47eb722eee802"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-11/part-3/index.html",
-      "bytes": 20649,
-      "sha256": "7034faee6e36b2fcd3e1d36eea7a72acb743a9284cca25610229a8e5bd0c6fb6"
+      "bytes": 20775,
+      "sha256": "b488ae0e1a9cccb8ec055b172aa85a8e5f5ec9e5e1766ea9ea0d1beed31a6605"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-12/index.html",
-      "bytes": 13930,
-      "sha256": "6cc37a55f1c18cce32c806f14eab351248f2891f7953e456145a8ab333942da0"
+      "bytes": 14056,
+      "sha256": "17cfcbac5f1da514911d7dddd6652d01c06c5efa457c18cc9733aa074f9823c5"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-12/part-1/index.html",
-      "bytes": 21102,
-      "sha256": "7020fe5f7a1db4f80b284fac8892ee8d7947c59c3eae600691bf914662a22d1c"
+      "bytes": 21228,
+      "sha256": "4153b83a8a01adf111c3598e696dde951b82e8e4fe8c84cd7f89a11fffcdce85"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-12/part-2/index.html",
-      "bytes": 20673,
-      "sha256": "1cc324b3ff0b294bdab7fe5781801f4a76105fb405e7a7b3551351acd28201b0"
+      "bytes": 20799,
+      "sha256": "da50ec489c551a34209da4da298bf56efa6b04a12528c8ede68d1b7d1f2d0a5a"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-12/part-3/index.html",
-      "bytes": 21517,
-      "sha256": "11c4cd027154b29477544268ba0affcd820d592dc5727354a573ea4dd5abf4bb"
+      "bytes": 21643,
+      "sha256": "a2288f03cdbfe1d0ffd0dff5e6a4541108886f75e18b2da200df332fd6187a22"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-13/index.html",
-      "bytes": 14440,
-      "sha256": "9bbf766824477bacf339747e01f8cfa6f5da0eff54fd532367742f905da03824"
+      "bytes": 14566,
+      "sha256": "b84f00fa2158f745ada06ba6e1074feaec3be82de9487137ee3aba5344a647ab"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-13/part-1/index.html",
-      "bytes": 21755,
-      "sha256": "05802aa1f9d5ec2a8b5c9f6d941628298bcfa3cdea1bbdc5080210be52af723f"
+      "bytes": 21881,
+      "sha256": "f8a29450719693dd3f40a4e9d2d612d7244f67360d7def79705469ab84914815"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-13/part-2/index.html",
-      "bytes": 21567,
-      "sha256": "8ee845438e57719752a674b15093613a233fafb14558d4820e554e946351948b"
+      "bytes": 21693,
+      "sha256": "10df1e271003626935cc83879db0330495beaf9fc25f77c85d68c0092bf0d2f9"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-13/part-3/index.html",
-      "bytes": 21091,
-      "sha256": "f249447cbe354d3c80376cad647abf28ab11808ac7af6a80fabe93727b80182c"
+      "bytes": 21217,
+      "sha256": "a6deb2f321b990fe9e73c4d4ca3dcc5c5f0389e4c5703a9f1c1a4e3943a54060"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-14/index.html",
-      "bytes": 14499,
-      "sha256": "dc6b925e95e731392ade925e1f28ec3033d884cb653e024d6f2984658de8e5f0"
+      "bytes": 14625,
+      "sha256": "bedcf21df6e07542e023a7f217e73aa946b7a4176280d61db51fc4e2acc786ba"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-14/part-1/index.html",
-      "bytes": 21315,
-      "sha256": "734a656e91c5f3ea4591051bd128a9098fba11483103302aabb3d96fbbbd76d9"
+      "bytes": 21441,
+      "sha256": "6ff5b934d186e91eb71f757d4be1f42de1e4638714dd141c37a6f8383ea0eae0"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-14/part-2/index.html",
-      "bytes": 21182,
-      "sha256": "287c170e2586b39326f99bd9dc1caaf2b24c5c25ee32024b6d78bc00238b5260"
+      "bytes": 21308,
+      "sha256": "cad418c98a4be33de6ff1289c5f5a38627ab91889f872bc9baaa3428f891a7dc"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-14/part-3/index.html",
-      "bytes": 21931,
-      "sha256": "24a2cc4446c4e034ad15532e0fc568ab9a9cce11eb25673ba80dff475d074824"
+      "bytes": 22057,
+      "sha256": "5f598445a7c29d057f5b8603318112de4f6d685aecce88dc94e9f61b7e762b1e"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-15/index.html",
-      "bytes": 14430,
-      "sha256": "df793a3ace8347c94f2ffa7e9cc9bef00304b398e68a072bac095e53d9f70bd9"
+      "bytes": 14556,
+      "sha256": "b6e4947a801e0caae35a389053c514be381aae18e05ce0492e62628a89d8f360"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-15/part-1/index.html",
-      "bytes": 21757,
-      "sha256": "c0d76e19bc534ff082d65eb9cb9e1695f3bfe7710152cc19a14561a0c662084e"
+      "bytes": 21883,
+      "sha256": "18899222bbf9316b066e18324a62d6b481875084f9d28eb488e15bcf661f0bca"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-15/part-2/index.html",
-      "bytes": 22148,
-      "sha256": "f735016ae51b80f22acc12c746b3b6b73de738303edc160bebf2540b15027159"
+      "bytes": 22274,
+      "sha256": "1f9477774f645bfda4fc6abf88d64c3be940aa8a56f12ac8856c149c538f4588"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-15/part-3/index.html",
-      "bytes": 26716,
-      "sha256": "3101abc7723968b3c1be9bb1f93222e7eb0b3cba49ec72c57110308589e401ff"
+      "bytes": 26842,
+      "sha256": "5ab8770542105026cdae069f98d907bb713653ceba034c713b51ececf055c6fb"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-2/index.html",
-      "bytes": 14381,
-      "sha256": "7e88a1eedd3fff8596e97cab1312513ce4db83f74e6ae55065d5dbf1d7a69179"
+      "bytes": 14507,
+      "sha256": "3321a42f81fcb333a49eb2a6ecc9bc75674533e86892d9f9aaddb7dc82d2b803"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-2/part-1/index.html",
-      "bytes": 17473,
-      "sha256": "163037e4be542906f26a3e826a4ee3b5aa4574d5369a384f6e15858f58dc2c89"
+      "bytes": 17599,
+      "sha256": "335c796abfae76646be41e606f24c66d37b06f8ebda0f81ab5920b7387ebfcaf"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-2/part-2/index.html",
-      "bytes": 17438,
-      "sha256": "1ef541710705b29bdbfac6442d31791a2b69df33cbcaaefc9721e92480886932"
+      "bytes": 17564,
+      "sha256": "09306c89a1ea31022fa3dcdd409e0650912b00577606a6978ca58a6dc7c6f421"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-2/part-3/index.html",
-      "bytes": 17196,
-      "sha256": "83e3d1d94bfb3a7b2b0fbcef0a20d318d9fd812387a02bbb98f53d619bce5fea"
+      "bytes": 17322,
+      "sha256": "fe57d7e910b2588ee4413c8ce8582d166eee90d0ba2dcdcca54f0a85bb6de0f6"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-3/index.html",
-      "bytes": 14509,
-      "sha256": "930851cf19237c84d017b803be296ea66a36134a478ffecad934eed6e965edee"
+      "bytes": 14635,
+      "sha256": "67ffa5ca62af017f09aeb59fdbeda3ad93412d95ab8e54d5c7c6a2765ff811d4"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-3/part-1/index.html",
-      "bytes": 21659,
-      "sha256": "156d119382dc60ff35e5a89e1a75fc630f4768ccbd1e5b881cf459725a4018c2"
+      "bytes": 21785,
+      "sha256": "e56830fc26a12dd4c02e898e131aa35839abb3f8cfa8c511e5996aef8180877d"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-3/part-2/index.html",
-      "bytes": 20977,
-      "sha256": "e0fceaedeb8958d3a968f296f30423e1d781c8d6965d25528dce96ed5f8a921c"
+      "bytes": 21103,
+      "sha256": "fe6ee49695938036f96f3f9b63e433214b3217288945d3ee618200304c577537"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-3/part-3/index.html",
-      "bytes": 20938,
-      "sha256": "49892267cab682e899b06e751510cfb66aa4565dcf0257fdf034817f063767e5"
+      "bytes": 21064,
+      "sha256": "50b1220ec276388e50c874db41d963aa9be37b6d30a73238a82b2b9d6fb7b166"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-4/index.html",
-      "bytes": 14637,
-      "sha256": "9053eb3461d24578925cb714bc7c61a6b94ee3c90b6cf73cfa9d93c3b5fc2e51"
+      "bytes": 14763,
+      "sha256": "1252c5e0a8da5667df6668829d7e46daec7912a7eadd628fa4995e696bfb69ac"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-4/part-1/index.html",
-      "bytes": 20231,
-      "sha256": "de381cd51ebc431776a718522faaf2e2a1194fbe671e075c1623ba4502cfe9b7"
+      "bytes": 20357,
+      "sha256": "50e41816e53c0b3da5ce875eb35d5d1896f39de3b4598d578e9538fab0d5fb58"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-4/part-2/index.html",
-      "bytes": 20573,
-      "sha256": "10ff1cbe49492545ffbb323cc168ae002bfc8d075aa1ff9aedc85b1de0b29f8c"
+      "bytes": 20699,
+      "sha256": "6f925583921488b93f1e69ef40ff5b67dc74b1717fe6b68083a92d0a9abb415e"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-4/part-3/index.html",
-      "bytes": 20817,
-      "sha256": "004ae3d7717f778784d7bd9ec6e4cb7bc3a41da54c1fc72e3d71e33a0a90c988"
+      "bytes": 20943,
+      "sha256": "4b304d9b1813c96aaa60388fddc05aeb4d4b5590c492c7698cb1adb93ee609b0"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-5/index.html",
-      "bytes": 14831,
-      "sha256": "603e46b5261e2c143d960989b826c24831cc16324aee1f12542f70968bcd39e6"
+      "bytes": 14957,
+      "sha256": "2a64d97c8cc4377b035e670ef0e92949dea181d85e71700e73a163e41e639223"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-5/part-1/index.html",
-      "bytes": 21255,
-      "sha256": "9d817d76960401dc329ef63b8250ee9b30e46b02f7074cfb16715c73b71a05a1"
+      "bytes": 21381,
+      "sha256": "f745750af4b6b404d8aa9ffc9650a57c62b33dafe23eed2668751a82c689b6a1"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-5/part-2/index.html",
-      "bytes": 21484,
-      "sha256": "a5957a0cb848a4d7f58c20d512e15585d6f0bcecf0e64630af2bc3a1019ab761"
+      "bytes": 21610,
+      "sha256": "b1560987a6977fd2f59d1c9838ca6adb2cbccea9eb5117f84d3c23cd32a9dfa7"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-5/part-3/index.html",
-      "bytes": 19606,
-      "sha256": "38cd1b2a6e128708eb13ae7192492a3966846684ab21b09d174446c41658c3e0"
+      "bytes": 19732,
+      "sha256": "4bfe3a843d431a123cc803575eaea1790ca9c8140fb272f3bbca427096552dc4"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-6/index.html",
-      "bytes": 14564,
-      "sha256": "ab454b92053ecf976ac680dc19838ae50af02ee61ec887f902f9ebcd5f23258d"
+      "bytes": 14690,
+      "sha256": "30c1f478408e12a448a7e724f6b61fef623a126436e6999d72c71c2a753acf22"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-6/part-1/index.html",
-      "bytes": 19938,
-      "sha256": "ec43ef13305ac3ccba63d38cbf8af082488e1a95c8a37ba422ead68fd67fc2cf"
+      "bytes": 20064,
+      "sha256": "6d164c8f3fb4289731879dc88a0bff21a45afef5b4aa25fa53736626975a3284"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-6/part-2/index.html",
-      "bytes": 21551,
-      "sha256": "44063a45da910d0f91b47eafedc6086dbe266854fb0484b14e62194ff464b53d"
+      "bytes": 21677,
+      "sha256": "63d29c5b1222ce4132e5134c7711760928a17818dbb8a1ce56299c5018864a34"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-6/part-3/index.html",
-      "bytes": 21686,
-      "sha256": "9ad9eb90092964bf69bf32daaef5cfbcedcae7c535901a2161aae92f52a1b901"
+      "bytes": 21812,
+      "sha256": "5d06421acdd62ebe634d70a5a85c2a9fc2f066ebfbe1c9cec8867be6ad728b03"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-7/index.html",
-      "bytes": 14295,
-      "sha256": "3c87fd6a4b44b23949423501e3c3aebb1e915474b7e56cb5b5055b48c0ea3f37"
+      "bytes": 14421,
+      "sha256": "f88605dd0ba79183b87d888820575d793c23d26e8b4ac386a3a5768292e598bd"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-7/part-1/index.html",
-      "bytes": 21389,
-      "sha256": "f33b3028e940402596097981dc07382be1b91197be4b35048db2b3f6e583fa96"
+      "bytes": 21515,
+      "sha256": "d7ab36f9e6eab3098ca9859337bd271e4a9025d70150b4abd0aae1c742bc6989"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-7/part-2/index.html",
-      "bytes": 22633,
-      "sha256": "8a214788ea9741e2fa68bba8ddd72fdb3fb6f6a3ef3c3925a84a19edc69c65a6"
+      "bytes": 22759,
+      "sha256": "3b6dcd1a900b2c28d2cbd0891580445fd818c4423ee71ca1c5a29248ada10f3f"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-7/part-3/index.html",
-      "bytes": 21889,
-      "sha256": "eb6784b1dcab02c2c5ca0c2602d8e39299d2d047d33bd27a642ab9c3d7922989"
+      "bytes": 22015,
+      "sha256": "9ad1af91b76886203c46142cd97cc6cdb43f0f19d5f074f09f97f32a1f55fa63"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-8/index.html",
-      "bytes": 14664,
-      "sha256": "63a875da96857de9a6adf5721a91d520aa1843494eda615697aae252f45e2ce0"
+      "bytes": 14790,
+      "sha256": "7b9b02af49389a954bcb9ad05c19460dcbdbaa6e2bab01a0aec356a338969584"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-8/part-1/index.html",
-      "bytes": 21560,
-      "sha256": "99d067a2b6a148f3ccf959e451a75864562fb90d723db9c9f5a475113d8696ed"
+      "bytes": 21686,
+      "sha256": "fe82510e7bc887c1cba82786dd86d29e9d3c746c2a46920e037547e592d6c14a"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-8/part-2/index.html",
-      "bytes": 22305,
-      "sha256": "3b389980411c39afef6580bb2175622d36b5081b181fb3b6f2690ff896d22031"
+      "bytes": 22431,
+      "sha256": "fd5f34acb7eae21d2c4590e898ca2828c1db8dac311a4bf517dcffe5a07b45e6"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-8/part-3/index.html",
-      "bytes": 21709,
-      "sha256": "2d14f040b6bcb0dbd812f553c30c7c23ca6fdcd60839d9b94a5c14acf8bb03bd"
+      "bytes": 21835,
+      "sha256": "a0c7b47085d3377012637b8b76e748d55d581033631358d85dba58c8204a383b"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-9/index.html",
-      "bytes": 14555,
-      "sha256": "b199a23a1b47a9966dc60bbfab6d0131dff2545fb5855d945c4c875f2fa5a17e"
+      "bytes": 14681,
+      "sha256": "bd6d6e62096e2cce8d2f7bbd19975e8e9ac3ad0fedb46001a57ddd6ac9f8bae0"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-9/part-1/index.html",
-      "bytes": 21750,
-      "sha256": "1117478551045a2fc69b74451bdca9e0f3b6e8aa9412e0db86f5f6129eb79063"
+      "bytes": 21876,
+      "sha256": "8417dd46adbcc0cfffa175434478b5876fce3f0c57aae2a2c793f9b2aff49d9d"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-9/part-2/index.html",
-      "bytes": 21209,
-      "sha256": "e5a0588cb6614cca58fb61c6ac47691eb0ce6b3e2bd43b97ce19672563b510c8"
+      "bytes": 21335,
+      "sha256": "9a9e051e52637733f7756dcc5ce3265c8f2d83f8ba6119e49069994a3adf74d3"
     },
     {
       "path": "dist/the-last-letter/b1/chapter-9/part-3/index.html",
-      "bytes": 21829,
-      "sha256": "8ce42c04bde586db737c16c0a485087906b4c1ee2d18e563d7e64e4dd03f5060"
+      "bytes": 21955,
+      "sha256": "5155a649f8ed7c9c049d9d95426b5d973392b9227b379b868c24841fe7cfce09"
     },
     {
       "path": "dist/the-last-letter/b1/index.html",
-      "bytes": 161395,
-      "sha256": "115bb7c9f88a6dd0753c78d5aaf4c81e20615a35caa530ca2bccd51e3fc0b328"
+      "bytes": 161521,
+      "sha256": "d22836230994e140e987ad3babfa3209d044a917bbe9d208738a60dc6ad5116a"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-1/index.html",
-      "bytes": 15626,
-      "sha256": "1c41db3ce12dd7e7ab83662f2402f226d07a58d3ba704e37bd37c80f05218785"
+      "bytes": 15752,
+      "sha256": "d07ec3d79ad7a3e7d4fb25ace01cf91a9ca9c28c1e8b664466591182c3f8e7c9"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-1/part-1/index.html",
-      "bytes": 21481,
-      "sha256": "079c6d66cd87a8d1ad3498569ef56e4e5f58e69a65203d8721c48710a9578196"
+      "bytes": 21607,
+      "sha256": "da3885e746378673a57764d478baeaab601c30631755f4610e747db57b8a2d4e"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-1/part-2/index.html",
-      "bytes": 22631,
-      "sha256": "ac524c70bf7e969094d5312d06d94b3c2496e909225695e1e15d3ac5a61c3072"
+      "bytes": 22757,
+      "sha256": "200cb822289c2645c9cbea282dc92a79b8c8268faf70e60b2aaf872a86d2e645"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-1/part-3/index.html",
-      "bytes": 23308,
-      "sha256": "bece220dae850f91b87ae6a7f2ca5592b3c3f0b1a64c5211a95fbb24fba1d017"
+      "bytes": 23434,
+      "sha256": "316d8d814fad2551ac7c2a4dd2427b9bcc4f5e04c2705db0ac2e60fc8525e297"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-10/index.html",
-      "bytes": 14979,
-      "sha256": "c52cda6ff27a3e19dd4802385fdda15cbff76686fb3097e8312697a63502020b"
+      "bytes": 15105,
+      "sha256": "a77647bc2afe1be56f5ae2e6401f0fb4b4a91c4188a3a3af06825a2829126e8f"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-10/part-1/index.html",
-      "bytes": 23529,
-      "sha256": "51bf1e6af3e32ff6404350ba8907c74e42ebd5fd495019153397270221d66fe1"
+      "bytes": 23655,
+      "sha256": "e6b5155d8325e94fd0e11003e9144b8310d4ee0fbf9c85f5754efd73dd216920"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-10/part-2/index.html",
-      "bytes": 23478,
-      "sha256": "5410c635bf80e997150c5ef1a057b83564dec980e0d8ae16200e35bb11153940"
+      "bytes": 23604,
+      "sha256": "280ab2dee928acba729e01e41a3e5a948443205473611c9ccabe6b167f203c5c"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-10/part-3/index.html",
-      "bytes": 23961,
-      "sha256": "0f3e405b8f75458d4e93a723361f1f84ca2adf61fffc10001fbc5e370e59237c"
+      "bytes": 24087,
+      "sha256": "cf7afead984fc82cc520cdacd72e4002654aafca7e29cd1ecc436552f45898e1"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-11/index.html",
-      "bytes": 14795,
-      "sha256": "3f660b1f94300ed96808194f65cbd2ee622c1634ab67fa57aee97ec6c37eb8a4"
+      "bytes": 14921,
+      "sha256": "27e260864792036e3b6a0f3349aff8e612537523f2a05c4bea5e3055d4e1f66e"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-11/part-1/index.html",
-      "bytes": 24117,
-      "sha256": "4ba5e4d98052f47ac1fa63337208cddfbce6a62fa2c17cb384caafe411f98d00"
+      "bytes": 24243,
+      "sha256": "6299d9723a3d2cc46fa85eeff4cf2a7aa23c7bfd72041581224d0c506c619b14"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-11/part-2/index.html",
-      "bytes": 23236,
-      "sha256": "0d801c266756828565e5d76956fcaffb46445e48ff14e9f4207d70ea2a3de5cf"
+      "bytes": 23362,
+      "sha256": "952c4237fffcff4979ce8cba51eb03e26d505f4ab081471d91811fe78d557c54"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-11/part-3/index.html",
-      "bytes": 22825,
-      "sha256": "dae7df991f736ed089eded050de5511f6344b9ca427e9484db0ca3d1aa3a55d1"
+      "bytes": 22951,
+      "sha256": "6fd6c6ab095e342646bfd70b934491f773e7f5f2d1d0c78c730bb6112512e658"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-12/index.html",
-      "bytes": 14586,
-      "sha256": "9a112b0db7a3a0fc846ac3ebbdd480250b15e9ec2b2c82bc9d8caa231e6f5ac3"
+      "bytes": 14712,
+      "sha256": "df3ba750980b5dc5b7d1ae5cbacf99dab46d5f30473ea485612db7c6238a5ca4"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-12/part-1/index.html",
-      "bytes": 22566,
-      "sha256": "11dc1d06d418148c6eda5aa4d99b22bedf4a75e47256eb19e33c91220c947973"
+      "bytes": 22692,
+      "sha256": "e5c980d46c400454deb8439e1db33f0c5abeafab3d53ab8174b72a9b21e56904"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-12/part-2/index.html",
-      "bytes": 22079,
-      "sha256": "1b51b148aca0e65b6d39c5be9590051ef5e4a052b5bf40d753f98d28280a7fcc"
+      "bytes": 22205,
+      "sha256": "33947388005f296912a941fd68404d471673f243faf9fcbbb5a20bdf02144753"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-12/part-3/index.html",
-      "bytes": 23925,
-      "sha256": "e9a6c644e65160983d3c45e7ba900c694ae2dbac1b0dae346624b0e5975abf9d"
+      "bytes": 24051,
+      "sha256": "7a7e4a618171d59c21a232e279557d6eb1a12cb1b15de183e0c325bb1cb4ddde"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-13/index.html",
-      "bytes": 14881,
-      "sha256": "607bc74707393011c7b80993331ce7678374178e38d687f6d5b0d2936843c7b9"
+      "bytes": 15007,
+      "sha256": "1fe7f4861f845889876bac7d48c3c055431b1917ac801c183f2e8e99817e3ea9"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-13/part-1/index.html",
-      "bytes": 23117,
-      "sha256": "b0b62567c9a080cd76915b703a3715eb1551669e9632deb31a17be8c1b83cf20"
+      "bytes": 23243,
+      "sha256": "e0d12a042a1e9f7c5d24c6199a2fabdc18b3e2dcfabcc727d57d209c73c3b2a8"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-13/part-2/index.html",
-      "bytes": 22523,
-      "sha256": "c5a9f6a1b457551e011067b0044ea5fcbff08cadf3f85c0ed78920f0b738b20b"
+      "bytes": 22649,
+      "sha256": "055d5c9edcd5f25d881c664908e7ea769ac749f71032854a375ada3c8e7cf8f6"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-13/part-3/index.html",
-      "bytes": 23246,
-      "sha256": "c2950370bab280b9404603a8717bad32eeda8307ce73b771b40547d02a0c8655"
+      "bytes": 23372,
+      "sha256": "4b976343d26d8c7d2a9781bf2167d33d780f0a908276943332076a4b28cfc224"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-14/index.html",
-      "bytes": 14808,
-      "sha256": "1ed115650f4bef7dd844d8b3afd445ae867c0e8010755a3848a0cd3616c4cd50"
+      "bytes": 14934,
+      "sha256": "fdaa43e6225d60a7edf60e84b16feddc672a8f727577139bfd21202286151195"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-14/part-1/index.html",
-      "bytes": 22978,
-      "sha256": "87cb4f0bdb1d18694f5ab99abeddb68696f58cfedb1b227d999d0e85bcec9685"
+      "bytes": 23104,
+      "sha256": "047d3317bfeb430577d8886af81245116f2addeaab70df81788e722eb515dc8a"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-14/part-2/index.html",
-      "bytes": 22588,
-      "sha256": "b7e7c586640ee92d86ce0f1b6dcd494cb8bd5330e5aa5612bbb2a24dc6ea2a1e"
+      "bytes": 22714,
+      "sha256": "dc366398f71102c39dca820aa0c1c3452a3183fea89c1772eb43194487383e80"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-14/part-3/index.html",
-      "bytes": 22738,
-      "sha256": "08582369ee6756c3acebe0b72fd4f0d99003880bfa47afc4c53fe3e781adac49"
+      "bytes": 22864,
+      "sha256": "bbefb07cc875a2fc94026a217f3dca391b14f2b7f98168dd2a783d0c6590f8d2"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-15/index.html",
-      "bytes": 15068,
-      "sha256": "2f10e004f1e7def5a8a04c4945c89354846bdf090a694a7f050ee85bc84601f3"
+      "bytes": 15194,
+      "sha256": "7ef7c5bb618f2cf24ce882fa4140f6c8a362d9f7dc83bd4743c46440d8b9f7a7"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-15/part-1/index.html",
-      "bytes": 23379,
-      "sha256": "5e97025866e08f1f9063f5f2875ddcbdb004aaa86e440e4415c876f2ddc8618e"
+      "bytes": 23505,
+      "sha256": "6a2e60f536d27df7e1a996c1959f3617c31db6e47ea87e5dc9cf5a4b0c85eed2"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-15/part-2/index.html",
-      "bytes": 23520,
-      "sha256": "59b3e71da20aeab04afdae09ae52c399c9389ca1f735a1e0b7d596d5af7bfa9f"
+      "bytes": 23646,
+      "sha256": "5aaa3bc375ee1485526b2844884465ae09b65b1d3e7f71531bb9bbc167f9e2f9"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-15/part-3/index.html",
-      "bytes": 29094,
-      "sha256": "da7d299b8f39785b42b3382ee563b3276f4b25b2c94a3ea17e4f8f9512a3d51f"
+      "bytes": 29220,
+      "sha256": "e53fe7e5753dc3e553811c0b45066127c5b21082b3a8ef39596c33f336f3c404"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-2/index.html",
-      "bytes": 16343,
-      "sha256": "5bd918b9b81cc81fb7785744e4cabbe14cb6168db7fa247d59699185ea87162f"
+      "bytes": 16469,
+      "sha256": "77f4cdc71e3645b79b2b531e7ffc759871baf3d36e30d5a8bd391eeee575ccab"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-2/part-1/index.html",
-      "bytes": 18528,
-      "sha256": "94b09a6b4ba2d94cfd5124a6a7369952fb7d4976598e8fd161047addf34ffcc1"
+      "bytes": 18654,
+      "sha256": "80dce76943000b5ac3dd39eca07c281775a4adfb9eb3a4d39d1192415dae1517"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-2/part-2/index.html",
-      "bytes": 20172,
-      "sha256": "9ac3015173abd8b92cbc1a588e0f34ff82f5233ac3b3a292fe0dd312ce2bd42c"
+      "bytes": 20298,
+      "sha256": "a071e3c13081c4a6e19ef13399b63e6eb8fb04a092f510e3100adb7d3b67c895"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-2/part-3/index.html",
-      "bytes": 19932,
-      "sha256": "8f85072bac2ebf43df589c877c54cebb6c292ff434f10fe32f22d76af8dd9039"
+      "bytes": 20058,
+      "sha256": "231039d80d8051fbad0811dbf9e8df73e4af71fe70520afaf7342ea0a71fd46e"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-3/index.html",
-      "bytes": 17216,
-      "sha256": "dc8626b4f006493514e6d33c550e844241b663b9e62377c7140438d9bcc6a69b"
+      "bytes": 17342,
+      "sha256": "06cf3f99f3383039855f17aff5a0f97f07f49a6954af4de5289dc2ef5a4c539c"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-3/part-1/index.html",
-      "bytes": 23969,
-      "sha256": "4aab2fd769efba5db99180235c455118c2ef21490f241b93f53ab4a87ada3a54"
+      "bytes": 24095,
+      "sha256": "8c97ce610de2d56a6a967697ba949c96d5f52bd2b03c3af9beeb7e980dac1667"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-3/part-2/index.html",
-      "bytes": 23879,
-      "sha256": "5ea82014001969a518dc4bb3b7021d190a2726e4b32bfe146a4c6e42f65b75b8"
+      "bytes": 24005,
+      "sha256": "38ec6261bf972b13e3f770ccdf9e5a04e432aa921178d5b82779b29d67ef2eba"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-3/part-3/index.html",
-      "bytes": 23356,
-      "sha256": "13996e1260059e21ec459d120b4d04aa864ad0b8b31d77e24436c25d9ad01a0c"
+      "bytes": 23482,
+      "sha256": "9ff919b434d219851b2dbfa5a703ff3befd5c5754c950094160cc4f19f08f722"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-4/index.html",
-      "bytes": 17140,
-      "sha256": "30b1e8a190bae46805b04372df7aa963089f6b2c0a40900e927eb13e1684cc48"
+      "bytes": 17266,
+      "sha256": "e0f534978c0517d8e5a0d1cc7e762f2af3ce19d53dc49ad5c97621de9d232e6c"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-4/part-1/index.html",
-      "bytes": 23192,
-      "sha256": "f156b14eae247ef3215600b52458d5e58824ee9a9afd76f79a03927432c3b661"
+      "bytes": 23318,
+      "sha256": "1f2df0977e95c074850053525acd82e3991a2be5323727a141a96041fbc8d72e"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-4/part-2/index.html",
-      "bytes": 22859,
-      "sha256": "96c6b7df515613353e96ddb3d5efbf7fdaae2c575d1c168330fd0463608299a7"
+      "bytes": 22985,
+      "sha256": "5aed9c24618de59362e84a58abd429156fd24b02f0189a05f019c649e837c471"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-4/part-3/index.html",
-      "bytes": 22895,
-      "sha256": "f26e0cc7bfe395f1f64e69e31cc8aecaee2fc5902d86aad134354fa67cc77b62"
+      "bytes": 23021,
+      "sha256": "2babce1d54223d7c26f3e77f8e9fb3372be8c1c2910a70dd081757569e2541d3"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-5/index.html",
-      "bytes": 17339,
-      "sha256": "0cf0653e2e71628625a21dfbece172eb2bd571815969b2ad2de1c4933f9c8ddf"
+      "bytes": 17465,
+      "sha256": "231c4186f66424cea2d32995670ce4d15264910c281e92e173f6f3287d79cb2f"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-5/part-1/index.html",
-      "bytes": 23618,
-      "sha256": "977223a0796d6dbc0484552a9da6d3708786474cc73a69952dd48a07c19f1331"
+      "bytes": 23744,
+      "sha256": "9df0f2bf8d47c7b96eb9e7bf009dbfb6201ec813cf63247f308370c3bd24e02c"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-5/part-2/index.html",
-      "bytes": 22637,
-      "sha256": "090a816864ada965528181077461b1ef4f0fcf47c4c263f1ad3e80a8e34cb1a5"
+      "bytes": 22763,
+      "sha256": "b4e990b5885c419ae2ad9148aa738fc4fff870e02c91b0f439ac74484d45bbe6"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-5/part-3/index.html",
-      "bytes": 22086,
-      "sha256": "bd001b833a6ebb43fbb7ca607ab7fe104e42ed8712e9c71b57af8b70c4e9e44a"
+      "bytes": 22212,
+      "sha256": "58f640f87a997980d30bdd300707788d382b44106eec0da485a17bd6dcfde587"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-6/index.html",
-      "bytes": 16294,
-      "sha256": "149407090b39837fa0790928ab47692843b8cd300e1d35cb176925f6acb35fa1"
+      "bytes": 16420,
+      "sha256": "84c0c59d70c76a337737793a10878d31bd859a8fa98c9104ec875c3e8984c5cd"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-6/part-1/index.html",
-      "bytes": 22548,
-      "sha256": "c1e0a0318d51a9f6b57091d7ea43f46d57d84ef48c1fd194950a426dfc9dd48b"
+      "bytes": 22674,
+      "sha256": "b3f0f4a42c3798b4e9af4bc15657bf636240094e5de6405c6ab284c84d5b3311"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-6/part-2/index.html",
-      "bytes": 24003,
-      "sha256": "c7da1c7fea83ae151cf2c2b0d0ad4c0d6f8db5bdca6e869a0600d25ad0fc0624"
+      "bytes": 24129,
+      "sha256": "1244755bda7aff7c2717f2ebc19bdf69d5a40ae340147563e6c6c5b6be2c5ddc"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-6/part-3/index.html",
-      "bytes": 22964,
-      "sha256": "2ce5a11e95614f52f87ee27eedd2884180738843483a5c29253bb3f2439eab1d"
+      "bytes": 23090,
+      "sha256": "bffe160153c60d934f259fc2a4edd73cda95be5e913b45aeb358ebfe19588d01"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-7/index.html",
-      "bytes": 15318,
-      "sha256": "6e1619056c4e478750a9398c6f71a4e7bc07256b7f550fca221ce794ab0c163e"
+      "bytes": 15444,
+      "sha256": "c00421c8ee2b487518f76bdb5bf0255bce363983dcea36a724b7cabf044dc7f1"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-7/part-1/index.html",
-      "bytes": 23290,
-      "sha256": "85c7fb2ab6aad6c813a1a4ba7b913a83283f56b4f501347b79790c32d5d823b7"
+      "bytes": 23416,
+      "sha256": "04e12235d82d7d96114f46c8b2a40464c8683c9504cb4bd67e287fe64f5e26eb"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-7/part-2/index.html",
-      "bytes": 25454,
-      "sha256": "a0108ab896415d53b6e3a3ac44770753c0b8e5ef30f4ca92f0f20194e5994be8"
+      "bytes": 25580,
+      "sha256": "2c4ea4cf2aa36cf0586783f544853acd2b73e52fedf88d14e19592ecd3ca4c6b"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-7/part-3/index.html",
-      "bytes": 23170,
-      "sha256": "9ee776ebb4f456b8715c13df81daadaee25760ceed80208ed847011c0c96c557"
+      "bytes": 23296,
+      "sha256": "6be1a082ff03affaff68fe3866e1588e34de59e7e1a5facae946e0a56d989ea7"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-8/index.html",
-      "bytes": 15183,
-      "sha256": "b500e1a9fe11de7b03f5f7418e12ddabb43bccf6de52243598b067192168ecc8"
+      "bytes": 15309,
+      "sha256": "dc79db562d7fc5917dcfc9c88d74e00b09c5d0fa1cded61fe22b01496086600e"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-8/part-1/index.html",
-      "bytes": 23190,
-      "sha256": "ffbe5688f4b53eedf27774ce400174f66b48d348e8a9743576aac3060fdbf6fc"
+      "bytes": 23316,
+      "sha256": "58de5c5fb2d8c786108f24fa6623feb1bdd42453a364e55cf06fa8a5a53b0eff"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-8/part-2/index.html",
-      "bytes": 23528,
-      "sha256": "1f5e7c13ed540836eef5facd3710cbb5613dc439372e3997b47d284e32572b46"
+      "bytes": 23654,
+      "sha256": "02d6f09870bd0288c790354ccf03da21f15c2cfcb46da01aa05a209274d3ed13"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-8/part-3/index.html",
-      "bytes": 23236,
-      "sha256": "0009a0318c73b6487f1d007f54404b3b0c32e3d847f37dba229057d5c372613b"
+      "bytes": 23362,
+      "sha256": "c156faaca021e81bad87a1a2c7846cf54f951f38a516b11f4009f491e666d7cb"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-9/index.html",
-      "bytes": 15132,
-      "sha256": "232e6bfc1bc98eabb603ea09abb50777010a68c4d43bdfa92c6e97e8bde3dcd9"
+      "bytes": 15258,
+      "sha256": "4799aeb46362adeed5209535593e04c075f864a331248b8b9ae0fc4fba561c17"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-9/part-1/index.html",
-      "bytes": 23614,
-      "sha256": "ca9d87657e780c5599705bffcba8c64f32a5be77dc251f36e554ebe3af74f8af"
+      "bytes": 23740,
+      "sha256": "a267b71dc8fa74ace0026d4d04b9f966accf2206a039bbd6d67879bda83939b4"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-9/part-2/index.html",
-      "bytes": 23203,
-      "sha256": "5d5615ce49362019be5adba432443461ff1efb8fb3fab2646a47fe18854b8cef"
+      "bytes": 23329,
+      "sha256": "736dd52453efa2e9b3f3335e9688bb763d21d45e6ce2829f0f4894f4d3d7067b"
     },
     {
       "path": "dist/the-last-letter/b2/chapter-9/part-3/index.html",
-      "bytes": 23707,
-      "sha256": "e18dd9ad78ab913cf21b2ef356b871a3047b4ab961d3623a4a70cc78bd879854"
+      "bytes": 23833,
+      "sha256": "fb2e27d5bbee7f24e6a9a4f8200cd6021c698d1fb70ac1b3db1168e00d1d2edc"
     },
     {
       "path": "dist/the-last-letter/b2/index.html",
-      "bytes": 179806,
-      "sha256": "18038aa2e8255d73831334455a3d8b5b5ca17369962dbaffdf15d9c748487636"
+      "bytes": 179932,
+      "sha256": "147173d37be744579fb42867d0dc41b25ad704b83434f7f4ed3d507e643d5a15"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-1/index.html",
-      "bytes": 16526,
-      "sha256": "0421e58524991595a1faa2b9d3d7c5db4f25674ef3b8e62aab3d14acdb823565"
+      "bytes": 16652,
+      "sha256": "3ea4589b19d56d8d48e617f6019f64d44ec03b9a69317fe02b5db3e2b76cad5a"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-1/part-1/index.html",
-      "bytes": 23889,
-      "sha256": "79629b57202c7074322cc09cbea296871798996740eb3f0651e6f9e3454419f0"
+      "bytes": 24015,
+      "sha256": "4b8a16387a174b306381e17a2126a2024de9f88c938083e1c2c75405747ec36a"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-1/part-2/index.html",
-      "bytes": 26764,
-      "sha256": "860b871f57ac3820788513b9cd1fc8d05256a756a3a692af718498a5701c39ec"
+      "bytes": 26890,
+      "sha256": "d9d36428ac18f2317f07d9acbfbf755d626f28fc46aea1328946ef3115c30737"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-1/part-3/index.html",
-      "bytes": 26702,
-      "sha256": "e5f067c9d6d2104f3c957e1e36aa87a05276ce0c768a1b30f70e280093ae09ea"
+      "bytes": 26828,
+      "sha256": "5d846191bea6e22e02c5d1a61f15a6fa6130f177e725a625b2055d8f917f091e"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-10/index.html",
-      "bytes": 15749,
-      "sha256": "db9d2634e5fbe0c3258c138e6ed397c909ddc47094379b26a7a3bda4f2c4448b"
+      "bytes": 15875,
+      "sha256": "58b5029013b0a437a32df193b0f2ffb088b23e0867a2b59343c2ebb1c401f31b"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-10/part-1/index.html",
-      "bytes": 26091,
-      "sha256": "ef569840021c4462f793c4bf5d795613426e5fa954adee01d55e51a765121ece"
+      "bytes": 26217,
+      "sha256": "3d4a289d507152d7f83a9301e2ec1643dff46e2c17e5ae5672106331a4ae3d79"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-10/part-2/index.html",
-      "bytes": 25110,
-      "sha256": "0a97d1dabc15cd28a8f9610d698af58d40ae88ce6e71cba2b640e2158fd04308"
+      "bytes": 25236,
+      "sha256": "0f04d18600e5cfe03fbcd2f5daabf0f3f21b391b44264561aa452962555e7040"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-10/part-3/index.html",
-      "bytes": 26794,
-      "sha256": "b52d1ba56cb2b3a0a49aaa2e165f936f9933d4f8c0dd838dd5c3ee30c681e402"
+      "bytes": 26920,
+      "sha256": "55620d1f7f799db10f71d8123ce1df3744cdcdbeec9446db74930b142faa197b"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-11/index.html",
-      "bytes": 15442,
-      "sha256": "8f1c4998710d867a8c51848585bddc9763158fa601b5f8a902ce8aeac866896d"
+      "bytes": 15568,
+      "sha256": "58b996b88ff40d431dc630502301c7d3fe25c1001c99a9088246e690d47b98d3"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-11/part-1/index.html",
-      "bytes": 26283,
-      "sha256": "e0df61fccedb865c59c5b299ebd95a159a0af94b1e269706502134154294a6b7"
+      "bytes": 26409,
+      "sha256": "368b32561d84184b62a374af880fae4c5377ead0c88a5b1d3fd8d0028614331c"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-11/part-2/index.html",
-      "bytes": 26446,
-      "sha256": "f00e730075ccf5034e50d80332759132e803c8e00b8ec19dbc76c733b2bf0270"
+      "bytes": 26572,
+      "sha256": "dad49d5a74dbad6853a0883f44ffbb005edde3be0850f4187bafba0222fd8fef"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-11/part-3/index.html",
-      "bytes": 25421,
-      "sha256": "86ccb2ddee8317565d455ce56a2f4154e0e6ee533be75a16c867808805074df0"
+      "bytes": 25547,
+      "sha256": "d2c18b4f8b7bc1568ea933634d5ab439d0f4a25d195e1efe9a5a5088fb83fc67"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-12/index.html",
-      "bytes": 15144,
-      "sha256": "079f6de3848e49e5754087ce8f6cb3ff6fd64428371a755258f36a74991957a5"
+      "bytes": 15270,
+      "sha256": "7dfe785ae14130568b629206f09e5cfc78ddab4da65681d130b7831286ca22d6"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-12/part-1/index.html",
-      "bytes": 24278,
-      "sha256": "d648480eda2e75b0d674760618a855fb4a4711b453137796c9043578ca8e10b8"
+      "bytes": 24404,
+      "sha256": "10f896aa06aa1f9962b079661f5acedafccc3e0ae360218128e819c644213235"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-12/part-2/index.html",
-      "bytes": 24339,
-      "sha256": "ebdcf778fd445a7b33b7f7efcfd83c8f33317c331af98bd94618ea6e09eebae4"
+      "bytes": 24465,
+      "sha256": "dc0eeb5d993e9fe7b8ec34b0fbf5b1b1e408770ca155148155fb2a7f21694606"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-12/part-3/index.html",
-      "bytes": 25872,
-      "sha256": "e91dea0ad244f9829d9a4631c84da65fb8fe8429a99cd2f2e4018d3becde3658"
+      "bytes": 25998,
+      "sha256": "1a27a5ef98112cb7de05555828f3e3cdeeab9493558ca0d9e634958788226a2f"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-13/index.html",
-      "bytes": 15213,
-      "sha256": "4eb14ac4e9c75832cf276a02f43bc70f370784438064463ab35ffc60d607d3d3"
+      "bytes": 15339,
+      "sha256": "60d394f23e7c2817ec7bf311abb6ebcf0a6f1b025085dd784b2ffb1a065cff6b"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-13/part-1/index.html",
-      "bytes": 25334,
-      "sha256": "0ca57c9bd0bb7c79c6f94803926cf6525b142777b4f76050ec74528baeb77c9d"
+      "bytes": 25460,
+      "sha256": "b4a8f2273e68e55791a0a9d8fb67aa7b2041d22581e291d50d9190d7ce14a89b"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-13/part-2/index.html",
-      "bytes": 25980,
-      "sha256": "7257ac6783f08cecf895bc20b9c5535a17f39752d61481406fca349199acb41e"
+      "bytes": 26106,
+      "sha256": "5ab32651f7e21eb05e9f00286e514e812f4059d1af1131182a8b6f291e2116a5"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-13/part-3/index.html",
-      "bytes": 25632,
-      "sha256": "da9015f31ff54d9c7aad6c52c3c7fa243338dd40c1a6b3849b4f80bea5fd3339"
+      "bytes": 25758,
+      "sha256": "0ccedbfed2f1825f8a91ce00932cd7f2ae3b6c6fb459937ae4b5edc5eaf6f0b1"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-14/index.html",
-      "bytes": 15291,
-      "sha256": "cd40b9ffa3c4617dd859f64bb5d16b615f8b1826ef000c9392eedc651d8baaff"
+      "bytes": 15417,
+      "sha256": "d842015997acf01a6f930320e3d2d4448472ac9fb6e4927511d727c3a3367b0f"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-14/part-1/index.html",
-      "bytes": 26002,
-      "sha256": "98759a3cb72a7afd17efc2d6a97e5da20319a6e28b0bc6dc371a2778723e990a"
+      "bytes": 26128,
+      "sha256": "9ab15f8e8ffecc9789ad5f5bceb6494f025328f2f03888c4492082fb51e3e47e"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-14/part-2/index.html",
-      "bytes": 25472,
-      "sha256": "b64a5f3f6a125278234b79826a89dd5dc87474dca696e761b305f6a357d9a198"
+      "bytes": 25598,
+      "sha256": "74e34496b811ba5f94264617ff8faa0d93b56acb0c8244509d5469f92c1b9efd"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-14/part-3/index.html",
-      "bytes": 24012,
-      "sha256": "4f4db4b6d23a60d121281f234cda64132e7614fac51cca161e5b5534b81b1935"
+      "bytes": 24138,
+      "sha256": "e0d350b7b04d3d611ac670fd7932d5616015f5a99b8f56935ce32cc89dee0503"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-15/index.html",
-      "bytes": 15594,
-      "sha256": "497ac5510c6c6f8ab87fa91afad2ba90ad689b0d12972ed6464a716dc6380f14"
+      "bytes": 15720,
+      "sha256": "fc6497618af3d09834e30b719ba847e620365ac567bd49a530c2e10e58addc9b"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-15/part-1/index.html",
-      "bytes": 25918,
-      "sha256": "edce35a7004b1f6a29841fb1288ded32aac3bb5b0e3162ad8596de85161c7058"
+      "bytes": 26044,
+      "sha256": "6014222190ebf994f768b603fed34dd70d4cc9e9d2c7d1ad19768e6d7fe46ba7"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-15/part-2/index.html",
-      "bytes": 25787,
-      "sha256": "6673b7e8f65c70472e9a3a69dd4f7abacaea9af1c940412426f0b215a1d8c17c"
+      "bytes": 25913,
+      "sha256": "0cd00ca51f06b0d33c2c99ab00a8f168b8b6284bc81d64496d88e34318930427"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-15/part-3/index.html",
-      "bytes": 35631,
-      "sha256": "20d8fa9b31b4cb8e7e4c5426c771b5ff34c22decbc3ec7ac5bb1b3aad40db3b5"
+      "bytes": 35757,
+      "sha256": "5d4be0d9cf742626637b3b26a1c0e749e4057c1ad21bd884a7f43e42c1419016"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-2/index.html",
-      "bytes": 18479,
-      "sha256": "891beebb63f7cfc252ac2aed2b6a6793fb9acd2f3134f8aa49bfa5212af4bfb9"
+      "bytes": 18605,
+      "sha256": "5ebf935f3ad15ff02363a91cc73913684de3aeb67bbd8d86e5f6ecbb1f2e2838"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-2/part-1/index.html",
-      "bytes": 24848,
-      "sha256": "35913a78a744be6d651ff9340fc46a59b316cf23a16581d18109d73682fac3e1"
+      "bytes": 24974,
+      "sha256": "2b896b48d49156e47498f0dfd1a34deaf8a0b9056e654bf215fffd099ed73908"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-2/part-2/index.html",
-      "bytes": 25730,
-      "sha256": "3d1a2ee7e2acc53feed0d6a0e2252f370bc37fd1ddf3e884ac657ac969a2ffc0"
+      "bytes": 25856,
+      "sha256": "3693f7421ad115af6a7dcc8660b55100d054c31d48df392df2031c5a5f2b8dc2"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-2/part-3/index.html",
-      "bytes": 26352,
-      "sha256": "2a26e273e2639c526b12b5a7aa0dacfc0a703ef4b41e7b1ec103a25924d3dcb1"
+      "bytes": 26478,
+      "sha256": "18c682a2155c30a8162fe78d6664b5809361494e3d717f1e6e73d0434c88bcf6"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-3/index.html",
-      "bytes": 18138,
-      "sha256": "3068e662cf7ea43d37ed619e0b506fb0e333bf5b20e310ba545d544b0e3df0d4"
+      "bytes": 18264,
+      "sha256": "aa6dbfcb61dd320035041d72b55869beaae7f2dac658229bfc02f490cee4c86d"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-3/part-1/index.html",
-      "bytes": 25608,
-      "sha256": "6bf895903e8b45a6ec3f28859880d0e7d0116f5f95e10f06097a5df349896e56"
+      "bytes": 25734,
+      "sha256": "0eba7184481d2c6c3205984b4c62302d557e19825993eeb87fb5827d5c1ba60c"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-3/part-2/index.html",
-      "bytes": 26942,
-      "sha256": "aed406d5b102082a95ff02bef3f6963b012b0769d6c5ecd733664bbac7c33d20"
+      "bytes": 27068,
+      "sha256": "108ca063c3919e557304a0870fda3b01e33969be8ba7706c91d02b4c33a1d0b0"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-3/part-3/index.html",
-      "bytes": 28419,
-      "sha256": "cf0e76ad9c58f51299f6d574a8504de0c97dfaf905926a8914782c76ab1e5899"
+      "bytes": 28545,
+      "sha256": "4ff9d24bd3f56c66970021366bc1e27f6b24db4b12d8619d5cb608ceac62626c"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-4/index.html",
-      "bytes": 18583,
-      "sha256": "84cb1096c86fd2add851cefea906f8c0448931bada1000a2b98ff427285c3b4d"
+      "bytes": 18709,
+      "sha256": "20b278790a2c776b6a21b2dcd18e513f85f8f7c0d5ff75172751bcfea7c0466b"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-4/part-1/index.html",
-      "bytes": 27304,
-      "sha256": "ee2f119a036e7cc667ff167fc30d811369a1f0a81cc7f6875b842e520a0a4f56"
+      "bytes": 27430,
+      "sha256": "f88034e93768360ce3fcf6865431bb52a4a76bd7749f4b2598fe0c594c6557fa"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-4/part-2/index.html",
-      "bytes": 27437,
-      "sha256": "c3a05c83f48c23e096a76552169345901f1c16df7c693d771677225f7e71ec54"
+      "bytes": 27563,
+      "sha256": "07c980215299b5d99343e704cca7d2a87069aab635fa5f7ec6154cb07ca99c1b"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-4/part-3/index.html",
-      "bytes": 26140,
-      "sha256": "5f330648336ccd7086a030f4d6845f8ea9513c8a6ec806b6bcbe7209f059570f"
+      "bytes": 26266,
+      "sha256": "c6db5abf17ec898efe099df4f255ffa79d884297c1875998f9702a3f2429d655"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-5/index.html",
-      "bytes": 18083,
-      "sha256": "6856e4ef21c611afcfc4df02e608bd77ab3c1a787426262f10111553f6beb804"
+      "bytes": 18209,
+      "sha256": "257841465786b6cbc94b914c1aa52a86ef0c6838df51f9598425eb1c485fbb56"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-5/part-1/index.html",
-      "bytes": 27312,
-      "sha256": "eff7c187796f9c95c5f8ab4dcd3fdc848cf5df753b985d368eeb35d072b65b78"
+      "bytes": 27438,
+      "sha256": "48d8b6c73d58b383f400bd7747ee6537dfb4f0745bb8a654221ef32f0cf761ae"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-5/part-2/index.html",
-      "bytes": 27090,
-      "sha256": "f6f34b2d253d4d521022a539286fb0f8d63ef43e33e25c0a77f0de80c1c49eb6"
+      "bytes": 27216,
+      "sha256": "e45db27806386026b208a1c501fe456bc133c3ec45f375134f6922d08e4844e2"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-5/part-3/index.html",
-      "bytes": 24197,
-      "sha256": "6781d5a78e8dc83411ed13f763f0dea07b998f96a742082febd22dbabbf291bf"
+      "bytes": 24323,
+      "sha256": "45f4885e053848288bc2a9fd6bcca72fb13af00ee94222b06d99af23bfd8405c"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-6/index.html",
-      "bytes": 17147,
-      "sha256": "cfb82200517a5f75a7698e5a9e1990f6540dcff7eec75562dfadbfbd8b521ed2"
+      "bytes": 17273,
+      "sha256": "a76e617ad8c12d283413f892a2139535aaf1ca5d04214ed2c1386f1f38b4e53a"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-6/part-1/index.html",
-      "bytes": 24256,
-      "sha256": "ece314cd65520f02395157f1f9e51c3963c07f77e3801545458a9cf8a15546c6"
+      "bytes": 24382,
+      "sha256": "4a252248e97a9a4322a744e6420fbc575d01a5829bed3756d96a05c2bec49f9c"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-6/part-2/index.html",
-      "bytes": 28711,
-      "sha256": "e5aabcd47dc397aaea3c0c9180470dd62ab7530949b76c559dfb90ff14dc1ea3"
+      "bytes": 28837,
+      "sha256": "aa38d474939456244f05c2c4d6e9ef3c11553f64464695a17c505b19d27978b0"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-6/part-3/index.html",
-      "bytes": 25138,
-      "sha256": "248ee881cc07d2ddfe3ffb1f6f626c1c7aba71a3811a2127a8b73b62cc764fb8"
+      "bytes": 25264,
+      "sha256": "c8a3410c68f1a72c4b4bb84d5de693c1a88c1ad692e975ea13475bced3d7ffe8"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-7/index.html",
-      "bytes": 15905,
-      "sha256": "5771ea8bad0539d9dd143f84c6d825e6cabd4f8b61baa5266a37760558811ef7"
+      "bytes": 16031,
+      "sha256": "427ebad12f54fd802c76cb404c13f4cd4edbf8e22aa01141c465c2ca6b58e0c1"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-7/part-1/index.html",
-      "bytes": 25282,
-      "sha256": "eaf9a03eb68305d521e144d44a50a48400774b0d763b740e79d414437db72c0e"
+      "bytes": 25408,
+      "sha256": "cbfb938f2fbe641fc2e7c21fdc290bf447d0f6797cfccb272a916b3479918641"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-7/part-2/index.html",
-      "bytes": 28082,
-      "sha256": "d1c17a543b37c6cc8baaceeb2eab305a31b178b9ef2828b6f4722dff3cde4a85"
+      "bytes": 28208,
+      "sha256": "679570fcd9f707081b4138a21400fdfe3488e50b7a235d3dd5c82700619103f8"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-7/part-3/index.html",
-      "bytes": 26678,
-      "sha256": "012537e5ce40414145380878e685a3bac8bad5e1165a982a141ef07f0e46bd72"
+      "bytes": 26804,
+      "sha256": "b943011a1b45a3ed40edbac78594e15dec5e4a2781079ae4bdd35dd97e274ac7"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-8/index.html",
-      "bytes": 15913,
-      "sha256": "ad75ceb838609030974c4fb49809377f8d32da76c00dc7d81c416fbdfd3bdb91"
+      "bytes": 16039,
+      "sha256": "c9e65ef4ddead4ddd040fca65b6e75f63e078b6dbfb7c88630f531d06a098205"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-8/part-1/index.html",
-      "bytes": 26261,
-      "sha256": "935a1bebfb3d186c9d1d1c945ba48e759ece5fe8612a18282ed65a1486565949"
+      "bytes": 26387,
+      "sha256": "06f0a1434923dcada18abc399675c5978b8f9b7ba4fecb45d5e26e5e42393f4d"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-8/part-2/index.html",
-      "bytes": 26452,
-      "sha256": "1c6b2475e551f5f17552ee75b385b7fb91dc8729c5ad9ff4cdad3a08db9ca32e"
+      "bytes": 26578,
+      "sha256": "1f8e5f6e9da7b58f48cd4d68bfda4c1a1843fc576f7324fdb7e6fa8695032568"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-8/part-3/index.html",
-      "bytes": 26203,
-      "sha256": "850f96a0fd139eebe641db03ddf90c3fc2a5c44e93d0fc443b8e970f52a94625"
+      "bytes": 26329,
+      "sha256": "a376209d06577b652bbe746b78bf830c8cba472e741b19ac21d997defcc511ea"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-9/index.html",
-      "bytes": 15671,
-      "sha256": "58b4d0c0c49f33152d4baf993d13a4d0e032358294bc3b89c88210c0f911e963"
+      "bytes": 15797,
+      "sha256": "acbcddf994ecc395d5274e9d472f92a218ddf2512b406a3995635b24c5cdffd8"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-9/part-1/index.html",
-      "bytes": 26059,
-      "sha256": "0003a0625b3d93010a54235ed588802ee01c5e3ce649cf0880d7e7a287bfc4de"
+      "bytes": 26185,
+      "sha256": "77ea41ef3063bc90b2f76c3abe651b01742a0a09c3e05f15b951c2cd94490145"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-9/part-2/index.html",
-      "bytes": 25049,
-      "sha256": "15e602bcdb54d3bf3c9ff9f3907000518d82ebcfa303b79561f9e1a52e2d9a3d"
+      "bytes": 25175,
+      "sha256": "8e6a2aaa75a11a3bb8049bf90a0519a0c9e1f13dfd9a5e99d4805070794fa0b5"
     },
     {
       "path": "dist/the-last-letter/c1/chapter-9/part-3/index.html",
-      "bytes": 26677,
-      "sha256": "4c2930ec92e385466258d3a5da1caf00976c3dcf708e5c75333349c3a4a04e6a"
+      "bytes": 26803,
+      "sha256": "78b01dc39e61c4b76c65255f7e2a06d4bee85701ba049e4af5f8c1fa0a34706e"
     },
     {
       "path": "dist/the-last-letter/c1/index.html",
-      "bytes": 191988,
-      "sha256": "c127d66d664dcfa0743b082224883e22518ddbd0112773ecfb09cfc2b42c355a"
+      "bytes": 192114,
+      "sha256": "336bcf9c54d7e308b9cf737c3f94dc2a1703db68e756d34f5a755b1b0ee1805a"
     },
     {
       "path": "dist/the-last-letter/index.html",
-      "bytes": 3913,
-      "sha256": "6cebc3007817a1bca7bb2b5f271fd02f72fe5805f15bcb0a5b887b73de55b1fb"
+      "bytes": 4039,
+      "sha256": "3e159cd9a60b6284630de8e7d9c183e10615ab8390f2d555c148c8a9d9222a07"
     },
     {
       "path": "provenance/consum_V227_original.json",
@@ -1698,8 +1698,8 @@
     },
     {
       "path": "scripts/build_V230.py",
-      "bytes": 21862,
-      "sha256": "172336c475c83c073299b1deaf3796ad98916adb909caca62772b0a588df77f3"
+      "bytes": 22729,
+      "sha256": "f81bbff0f2760b15965900defb25f2ea0eea42dae627bbdf3c8be73a7b04add7"
     },
     {
       "path": "scripts/check_learning_V230.mjs",
@@ -1713,8 +1713,8 @@
     },
     {
       "path": "site_config_V230.json",
-      "bytes": 189,
-      "sha256": "dc9a895f2800027e61dff172b36156d7cc00dbedece4b18c7d48a012c472433a"
+      "bytes": 271,
+      "sha256": "ed8d661beadbccb84ffbde5cb2ffaa66e0fa5b214a57f7697b3c08968b87971f"
     },
     {
       "path": "validation/audio_manifest_V230.json",

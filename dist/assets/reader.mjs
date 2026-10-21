@@ -4,6 +4,16 @@ const dataElement=document.getElementById('unit-data');
 const storage={getItem:key=>localStorage.getItem(key),setItem:(key,value)=>localStorage.setItem(key,value)};
 if(dataElement){
  const unit=JSON.parse(dataElement.textContent),form=document.getElementById('questions'),result=document.getElementById('result'),transcript=document.getElementById('transcript'),audio=document.getElementById('audio');
+ // On the final part, make the newly restored chapter player easy to find.
+ if (unit.part === 3) {
+  const nav = document.querySelector('.page-nav');
+  if (nav) {
+   const whole = document.createElement('a');
+   whole.href = '/the-last-letter/' + unit.level.toLowerCase() + '/chapter-' + unit.chapter + '/';
+   whole.textContent = '🎧 Listen to the full chapter →';
+   nav.append(whole);
+  }
+ }
  const showResult=r=>{
   result.textContent=`You scored ${r.score} out of ${r.total} (${r.percentage}%). ${r.score===r.total?'Well done!':'Read the explanations, listen again and try once more.'}`+(r.persisted===false?' Progress could not be saved in this browser.':'');
   transcript.dataset.locked='false';document.getElementById('transcript-lock').hidden=true;

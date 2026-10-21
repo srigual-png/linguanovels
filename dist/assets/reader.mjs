@@ -1,3 +1,4 @@
+import {initChapterPlayer} from './chapter-player.mjs';
 import {saveProgress,restoreProgress} from './learning.mjs';
 const dataElement=document.getElementById('unit-data');
 const storage={getItem:key=>localStorage.getItem(key),setItem:(key,value)=>localStorage.setItem(key,value)};
@@ -38,3 +39,5 @@ for(const element of document.querySelectorAll('[data-progress-units]')){
 }
 const resume=document.getElementById('resume');
 if(resume){try{const p=JSON.parse(localStorage.getItem('linguanovels:last-unit')||'null');if(p&&/^\/the-last-letter\/(b1|b2|c1)\/chapter-([1-9]|1[0-5])\/part-[1-3]\/$/.test(p.url)){resume.href=p.url;resume.textContent='Continue: '+p.title;resume.hidden=false;}}catch{}}
+
+initChapterPlayer({restoreProgress,storage});

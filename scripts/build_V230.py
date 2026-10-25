@@ -3,6 +3,7 @@
 from pathlib import Path
 from html import escape as esc
 import json, hashlib, re
+from zipfile import ZipFile
 from urllib.parse import urlparse
 
 ROOT=Path(__file__).resolve().parents[1]
@@ -38,9 +39,9 @@ def write_page(path,title,description,body,kind='WebPage',breadcrumb=None):
 <title>{esc(title)}</title><meta name="description" content="{esc(description,quote=True)}">
 <link rel="canonical" href="{esc(url)}"><meta property="og:type" content="website"><meta property="og:title" content="{esc(title,quote=True)}"><meta property="og:description" content="{esc(description,quote=True)}"><meta property="og:url" content="{esc(url)}"><meta property="og:site_name" content="LinguaNovels"><meta name="theme-color" content="#153d36">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/assets/site.css"><script type="application/ld+json">{safe_json(schema)}</script><script type="module" src="/assets/reader.mjs"></script><script data-goatcounter="{esc(GOATCOUNTER,quote=True)}" async src="https://gc.zgo.at/count.js"></script></head>
-<body><a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="wrap header-inner"><a class="brand" href="/" aria-label="LinguaNovels home">Lingua<em>Novels</em></a><nav aria-label="Main navigation"><a href="/the-last-letter/">The story</a><a class="optional" href="/how-it-works/">How it works</a><a class="nav-link" href="/the-last-letter/#levels">Start listening</a></nav></div></header>
+<body><a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="wrap header-inner"><a class="brand" href="/" aria-label="LinguaNovels home">Lingua<em>Novels</em></a><nav aria-label="Main navigation"><a href="/the-last-letter/">The story</a><a href="/novels/">EPUB novels</a><a class="optional" href="/how-it-works/">How it works</a><a class="nav-link" href="/the-last-letter/#levels">Start listening</a></nav></div></header>
 <main id="main" class="wrap">{body}</main>
-<footer class="site-footer"><div class="wrap footer-inner"><div><a class="brand" href="/">Lingua<em>Novels</em></a><p class="footer-note">A good story. A little English. Every day.</p></div><div class="footer-links"><a href="/about/">About</a><a href="/how-it-works/">How it works</a><a href="/privacy/">Privacy &amp; saved progress</a></div></div></footer></body></html>'''
+<footer class="site-footer"><div class="wrap footer-inner"><div><a class="brand" href="/">Lingua<em>Novels</em></a><p class="footer-note">A good story. A little English. Every day.</p></div><div class="footer-links"><a href="/novels/">Novels in EPUB</a><a href="/about/">About</a><a href="/how-it-works/">How it works</a><a href="/privacy/">Privacy &amp; saved progress</a></div></div></footer></body></html>'''
     out=DIST/('index.html' if path=='/' else path.strip('/')+'/index.html')
     out.parent.mkdir(parents=True,exist_ok=True);out.write_text(html)
 
@@ -116,6 +117,32 @@ def build_info():
     '/privacy/':('Privacy & Saved Progress | LinguaNovels','How this version of LinguaNovels handles local progress, audio playback, hosting and advertising.','''<h1>Privacy &amp; saved progress</h1><p>This page describes the V230 website package, updated 20 October 2026.</p><h2>Progress on your device</h2><p>When you submit a quiz, the site stores your selected answers, the submission date and the content version in your browser’s local storage. It also remembers the last listening part you opened so you can return to it. This data is not sent to a LinguaNovels server and is not shared between devices.</p><h2>Visitor statistics</h2><p>LinguaNovels uses GoatCounter to measure page visits, referring websites and general browser, device and location statistics. Requests are sent to our separate linguanovels.goatcounter.com counter. Quiz answers and saved learning progress are not sent to GoatCounter. GoatCounter does not use cookies or browser storage for analytics. Its service processes connection information, including IP addresses, to count visits and estimate location; IP addresses are not stored in its database. See the <a href="https://www.goatcounter.com/help/privacy">GoatCounter privacy policy</a> for details.</p><h2>Accounts and storage</h2><p>This website has no registration, contact form or active advertising scripts. It does not set application cookies. It uses local storage for progress and the last opened part.</p><h2>Audio and hosting</h2><p>The MP3 files were generated in advance. Playing an audio file does not send your text or answers to Google’s speech-generation service. When deployed on Cloudflare Pages, page and audio requests pass through Cloudflare, which may process connection information such as IP addresses and request logs under its own policies.</p><h2>Future advertising</h2><p>Advertising is not active in this version. Before adding advertising, the privacy information and any required consent controls must be updated.</p><h2>Clear your progress</h2><p>This removes only the LinguaNovels data stored by this website in this browser.</p><button class="button secondary" id="clear-progress" type="button">Clear my saved progress</button><p id="clear-status" role="status"></p><noscript><p>With JavaScript disabled, use your browser’s site-data settings to clear local storage.</p></noscript>''')}
     for path,(title,desc,content) in pages.items():write_page(path,title,desc,crumbs([('Home','/'),(title.split(' |')[0],None)])+'<article class="prose">'+content+'</article>')
 
+def build_epub_library():
+    catalog=json.loads((ROOT/'content/epub_catalog.json').read_text(encoding='utf-8'))
+    body=crumbs([('Home','/'),('Novels in EPUB',None)])
+    body+='<div class="page-intro"><p class="eyebrow">Your next read</p><h1>Novels in EPUB</h1><p>A whole story, ready to read at your own pace. Download an EPUB and open it in your favourite reading app or e-reader.</p></div>'
+    for book in catalog['books']:
+        body+='<article class="reader-panel epub-book"><p class="eyebrow">EPUB · '+esc(book['language'])+'</p><h2>'+esc(book['title'])+'</h2>'
+        if book.get('subtitle'):body+='<p class="epub-subtitle">'+esc(book['subtitle'])+'</p>'
+        body+='<p>'+esc(book['description'])+'</p>'
+        body+='<div class="level-grid">'
+        for edition in book['editions']:
+            src=edition['file']
+            assert src.startswith('/books/') and src.endswith('.epub'),src
+            file=(DIST/src.lstrip('/')).resolve()
+            assert file.is_relative_to((DIST/'books').resolve()) and file.is_file(),src
+            with ZipFile(file) as epub:
+                assert epub.testzip() is None,src
+                assert epub.read('mimetype')==b'application/epub+zip',src
+                assert 'META-INF/container.xml' in epub.namelist(),src
+            level=edition['level']
+            body+=f'<section class="level-card"><img src="{esc(edition["cover"],quote=True)}" alt="Fifteen Years in Ink: The Last Letter, {esc(level)} edition cover" width="1600" height="2810" style="width:100%;height:auto;border-radius:4px" loading="lazy">{badge(level)}<h3>{esc(level)} edition</h3><p>{esc(LEVELS[level][1])}</p><a class="button" href="{esc(src,quote=True)}" download>Download {esc(level)} EPUB</a><span class="small">{file.stat().st_size/1024/1024:.1f} MB</span><a class="small" href="{level_url(level)}">Practise listening at {esc(level)} →</a></section>'
+        body+='</div></article>'
+    if not catalog['books']:
+        body+='<section class="reader-panel"><h2>The first novel is on its way.</h2><p>Our EPUB library is being prepared. In the meantime, explore our listening story.</p>'+button('Explore The Last Letter','/the-last-letter/')+'</section>'
+    body+='<section class="prose"><h2>How to read your EPUB</h2><p>Download the file, then open or import it in a reading app that supports EPUB. You can adjust the text size and keep reading offline once the book is on your device.</p></section>'
+    write_page('/novels/','Novels in EPUB | LinguaNovels','Explore the LinguaNovels EPUB library and download novels to read in your favourite reading app or e-reader.',body)
+
 def main():
     assert len(UNITS)==135 and sum(len(u['questions']) for u in UNITS)==810
     for u in UNITS:
@@ -125,7 +152,7 @@ def main():
         assert hashlib.sha256((DIST/u['audio']['src'].lstrip('/')).read_bytes()).hexdigest()==u['audio']['sha256']
     build_home();build_indexes()
     for u in UNITS:build_unit(u)
-    build_info()
+    build_info();build_epub_library()
     write_page('/404/','Page Not Found | LinguaNovels','Return to LinguaNovels and continue your English listening story.','<article class="prose"><p class="eyebrow">Page not found</p><h1>This clue leads nowhere.</h1><p>The page may have moved. Return to the story to continue.</p>'+button('Back to the story','/the-last-letter/')+'</article>')
     (DIST/'404.html').write_bytes((DIST/'404/index.html').read_bytes());(DIST/'404/index.html').unlink();(DIST/'404').rmdir();PAGES.remove('/404/')
     sitemap='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{BASE}{p}</loc></url>' for p in PAGES)+'</urlset>'

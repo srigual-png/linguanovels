@@ -1,0 +1,27 @@
+{
+  "books": [
+    {
+      "title": "Fifteen Years in Ink",
+      "subtitle": "The Last Letter",
+      "language": "English",
+      "description": "An unexpected letter draws journalist Emma Fraser into a disappearance from fifteen years ago. Follow a mystery set in Scotland, adapted to three English levels. Each edition includes the complete story in fifteen chapters and links to the matching online listening activities.",
+      "editions": [
+        {
+          "level": "B1",
+          "file": "/books/fifteen-years-in-ink-b1.epub",
+          "cover": "/books/fifteen-years-in-ink-b1.jpg"
+        },
+        {
+          "level": "B2",
+          "file": "/books/fifteen-years-in-ink-b2.epub",
+          "cover": "/books/fifteen-years-in-ink-b2.jpg"
+        },
+        {
+          "level": "C1",
+          "file": "/books/fifteen-years-in-ink-c1.epub",
+          "cover": "/books/fifteen-years-in-ink-c1.jpg"
+        }
+      ]
+    }
+  ]
+}

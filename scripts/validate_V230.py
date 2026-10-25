@@ -31,6 +31,7 @@ def run():
     units=master['units'];assert len(units)==135
     paths={};titles=[];references=0;question_count=0
     for file in DIST.rglob('*.html'):
+        if file.name.startswith('google') and file.read_text().strip()==f'google-site-verification: {file.name}':continue
         p=Page();p.feed(file.read_text());paths[file.resolve()]=p
         assert p.lang=='en-GB',file
         assert len(p.ids)==len(set(p.ids)),('duplicate HTML ids',file)
@@ -69,7 +70,7 @@ def run():
     assert question_count==810
     assert audio_count==135 and len(list((DIST/'assets/audio').glob('*.mp3')))==135
     tree=ET.parse(DIST/'sitemap.xml');urls=[x.text for x in tree.findall('.//{*}loc')]
-    assert len(urls)==188 and len(urls)==len(set(urls))
+    assert len(urls)==189 and len(urls)==len(set(urls))
     for url in urls:assert (DIST/urlsplit(url).path.lstrip('/')/'index.html').exists()
     learning=json.loads(subprocess.check_output(['node',str(ROOT/'scripts/check_learning_V230.mjs')]))
     subprocess.run(['node','--check',str(DIST/'assets/reader.mjs')],check=True)

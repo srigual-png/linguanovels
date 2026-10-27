@@ -1,5 +1,6 @@
 import {initChapterPlayer} from './chapter-player.mjs';
 import {saveProgress,restoreProgress} from './learning.mjs';
+import {connectTranscriptPlayer} from './transcript-player.mjs';
 const dataElement=document.getElementById('unit-data');
 const storage={getItem:key=>localStorage.getItem(key),setItem:(key,value)=>localStorage.setItem(key,value)};
 if(dataElement){
@@ -14,9 +15,11 @@ if(dataElement){
    nav.append(whole);
   }
  }
+ const player=document.getElementById('transcript-player');
+ connectTranscriptPlayer(audio,player);
  const showResult=r=>{
   result.textContent=`You scored ${r.score} out of ${r.total} (${r.percentage}%). ${r.score===r.total?'Well done!':'Read the explanations, listen again and try once more.'}`+(r.persisted===false?' Progress could not be saved in this browser.':'');
-  transcript.dataset.locked='false';document.getElementById('transcript-lock').hidden=true;
+  transcript.dataset.locked='false';player.hidden=false;document.getElementById('transcript-lock').hidden=true;
   for(const [i,q] of unit.questions.entries()){
    const field=form.querySelector(`[data-question="${q.id}"]`),f=r.feedback[i];
    for(const label of field.querySelectorAll('.answer')){
